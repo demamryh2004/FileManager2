@@ -1,0 +1,6 @@
+01:58:46.160 [main] INFO  FileManager - Файл успешно скопирован в C:\Users\Dimam\Variantistatistika1-602023.pdf
+02:03:04.090 [main] INFO  FileManager - Вывод размеров файлов в директории C:\Users\Dimam:
+02:10:13.893 [main] ERROR FileManager - Ошибка: Указанной директории не существует.
+02:10:13.893 [main] ERROR FileManager - Ошибка: Некорректный выбор.
+02:10:41.653 [main] ERROR FileManager - Ошибка: Недостаточно прав для записи в целевую директорию.
+02:13:35.994 [main] ERROR FileManager - Ошибка: В директории C:\ffff нет файлов.
